@@ -1,0 +1,10 @@
+{
+  "Name": "Better Solar Panels",
+  "Author": "Malibloo",
+  "Version": "0.8.0",
+  "Description": "Dynamic changes to solar panels to make them a tad more realistic",
+  "UniqueID": "Mali.SolarPanels",
+  "EntryDll": "BetterSolarPanels.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}

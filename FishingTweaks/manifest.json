@@ -1,0 +1,10 @@
+{
+  "Name": "Mali's Fishing Tweaks",
+  "Author": "Malibloo",
+  "Version": "0.1.0",
+  "Description": "Some small changes for a more dynamic fishing experience",
+  "UniqueID": "Mali.FishingTweaks",
+  "EntryDll": "FishingTweaks.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}

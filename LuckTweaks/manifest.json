@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Mali's Luck Tweaks",
+  "Author": "Malibloo",
+  "Version": "0.1.0",
+  "Description": "Some small changes to make luck more impactful",
+  "UniqueID": "Mali.LuckTweaks",
+  "EntryDll": "LuckTweaks.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
